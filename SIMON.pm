@@ -1,6 +1,6 @@
 package Bundle::SDK::SIMON;
 
-$VERSION = '1.00';
+$VERSION = '1.01';
 
 1;
 
@@ -16,25 +16,25 @@ C<perl -MCPANPLUS -e 'install Bundle::SDK::SIMON'>
 
 =head1 CONTENTS
 
-Bundle::CPAN
+Bundle::CPAN undef
 
-Bundle::LWP
+Bundle::LWP undef
 
-Mail::Send
+Mail::Send undef
 
-MLDBM
+MLDBM undef
 
-Date::Calc
+Date::Calc undef
 
-DBI
+DBI undef
 
-Data::Dumper
+Data::Dumper undef
 
-POE
+POE undef
 
-File::Spec
+File::Spec undef
 
-XML::Simple
+XML::Simple undef
 
 =head1 DESCRIPTION
 
@@ -48,3 +48,7 @@ The talk notes are included in this distribution as F<modules.pod>
 =head1 AUTHOR
 
 Simon Cozens, C<simon@cpan.org>.
+
+Maintained by Alberto Simões C<ambs@cpan.org>.
+
+=cut
